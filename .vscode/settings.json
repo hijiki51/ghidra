@@ -1,0 +1,5 @@
+{
+  "python.autoComplete.extraPaths": [
+    "./Ghidra/Framework/SoftwareModeling/src/main/java"
+  ]
+}
